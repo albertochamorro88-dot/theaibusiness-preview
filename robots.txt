@@ -1,0 +1,3 @@
+# Vista previa para revision interna: no queremos que se indexe.
+User-agent: *
+Disallow: /
