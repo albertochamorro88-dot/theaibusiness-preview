@@ -1,5 +1,5 @@
 :HL["/theaibusiness-preview/_next/static/chunks/0oqlk5luyog3c.css","style"]
 :HL["/theaibusiness-preview/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/theaibusiness-preview/_next/static/chunks/365_pgkqxccom.css","style"]
-:HL["/theaibusiness-preview/_next/static/chunks/3ndns_t41sid5.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"servicios","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"consultoria-y-acompanamiento","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"UWXhtwooPz7R98zGtz6Ja"}
+:HL["/theaibusiness-preview/_next/static/chunks/2zqrv_6e_24ss.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"servicios","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"consultoria-y-acompanamiento","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"QdSEpnpoRvt4vAZp9HO3T"}
