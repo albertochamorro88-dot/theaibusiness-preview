@@ -1,4 +1,4 @@
 :HL["/theaibusiness-preview/_next/static/chunks/0oqlk5luyog3c.css","style"]
 :HL["/theaibusiness-preview/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/theaibusiness-preview/_next/static/chunks/3t6ovk_77eaxq.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"servicios","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"ai-act-y-gobernanza","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"MPkL3noQBPXMwteEH051s"}
+:HL["/theaibusiness-preview/_next/static/chunks/3a1xb9_bgg9tt.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"servicios","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"ai-act-y-gobernanza","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"Z08B3Yv1LQVopsIsfCePz"}
